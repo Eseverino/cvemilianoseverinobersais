@@ -1,0 +1,106 @@
+body {background-image: url("Imagenes/light-colorful-background-lgw7ddo058vsb30p.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+p{font-family: 'Nanum Brush Script', cursive;font-size: 22px;}
+
+
+a{font-family: 'Nanum Brush Script', cursive;color: black;}
+
+
+.FotoCV {border: 6px solid silver;  
+margin: 27px 150px 0px 0px;
+height: 300px; width: 200px;
+float: right;}
+
+li{font-family:'Nanum Brush Script';}
+
+#botonwp {font-family:'Nanum Brush Script';
+margin: 150px 0px 0px 350px;
+background-color: #4CAF50; /* Green */
+border: outset;
+color: white;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 18px;
+}
+
+#menu{list-style-type: none; font-size: 25px;
+text-decoration: none;
+margin: 100px 400px 0px 150px}
+
+#l1{list-style-type: none; 
+font-size: 30px;
+text-decoration: none}
+
+#l2{list-style-type: none; font-size: 30px;
+text-decoration: none}
+
+#l3{list-style-type: none; font-size: 30px;
+text-decoration: none}
+  
+#paginaprincipal {font-family:'Nanum Brush Script';
+margin: 0px 0px 0px 280px;
+background-color: #3bb2c7;
+border: outset;
+color: white;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 18px}
+
+#wp {margin: 2px 0px 0px 0px;
+padding: 0px 5px 0px 0px;
+color: #ffffff; 
+font-size: 1em;
+}
+
+#cv1 {position: relative ;
+padding: 0px 6px 0px 0px;
+color:black;
+}
+
+#cv2 {position: relative ;
+padding: 0px 6px 0px 0px;
+color:black;
+}
+
+#botonwp2{font-family:'Nanum Brush Script';
+margin: 150px 0px 0px 350px;
+background-color: #4CAF50; /* Green */
+border: outset;
+color: white;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 18px;}
+
+
+#v1{text-decoration: none;}
+#v2{text-decoration: none;}
+#v3{text-decoration: none;}
+
+#t1{font-family:'Nanum Brush Script', cursive; font-size: 50px;
+padding: 2px 10px 5px 10px;
+margin: 40px 0px 0px 250px;}   
+
+#t2{font-family:'Nanum Brush Script', cursive; 
+font-size: 50px; 
+text-align: center;
+padding-top: 25px;
+}
+
+#t3{font-family:'Nanum Brush Script', cursive; 
+font-size: 50px; 
+text-align: center;
+padding-top: 25px;
+}
+
+#t4{font-family:'Nanum Brush Script', cursive; 
+font-size: 50px; 
+text-align: center;
+padding-top: 25px;
+}
